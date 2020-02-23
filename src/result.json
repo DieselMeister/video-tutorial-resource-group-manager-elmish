@@ -1,0 +1,164 @@
+{
+	"value": [
+		{
+			"id": "/subscriptions/77d9206d-4aa9-4ebb-a46c-6859ab85a638/resourceGroups/my-demo-resource-group-02",
+			"name": "my-demo-resource-group-02",
+			"type": "Microsoft.Resources/resourceGroups",
+			"location": "germanywestcentral",
+			"tags": { "fancy-tag": "02" },
+			"properties": { "provisioningState": "Succeeded" }
+		},
+		{
+			"id": "/subscriptions/77d9206d-4aa9-4ebb-a46c-6859ab85a638/resourceGroups/my-demo-resource-group-03",
+			"name": "my-demo-resource-group-03",
+			"type": "Microsoft.Resources/resourceGroups",
+			"location": "germanywestcentral",
+			"tags": { "fancy-tag": "03" },
+			"properties": { "provisioningState": "Succeeded" }
+		},
+		{
+			"id": "/subscriptions/77d9206d-4aa9-4ebb-a46c-6859ab85a638/resourceGroups/my-demo-resource-group-04",
+			"name": "my-demo-resource-group-04",
+			"type": "Microsoft.Resources/resourceGroups",
+			"location": "germanywestcentral",
+			"tags": { "fancy-tag": "04" },
+			"properties": { "provisioningState": "Succeeded" }
+		},
+		{
+			"id": "/subscriptions/77d9206d-4aa9-4ebb-a46c-6859ab85a638/resourceGroups/my-demo-resource-group-05",
+			"name": "my-demo-resource-group-05",
+			"type": "Microsoft.Resources/resourceGroups",
+			"location": "germanywestcentral",
+			"tags": { "fancy-tag": "05" },
+			"properties": { "provisioningState": "Succeeded" }
+		},
+		{
+			"id": "/subscriptions/77d9206d-4aa9-4ebb-a46c-6859ab85a638/resourceGroups/my-demo-resource-group-06",
+			"name": "my-demo-resource-group-06",
+			"type": "Microsoft.Resources/resourceGroups",
+			"location": "germanywestcentral",
+			"tags": { "fancy-tag": "06" },
+			"properties": { "provisioningState": "Succeeded" }
+		},
+		{
+			"id": "/subscriptions/77d9206d-4aa9-4ebb-a46c-6859ab85a638/resourceGroups/my-demo-resource-group-07",
+			"name": "my-demo-resource-group-07",
+			"type": "Microsoft.Resources/resourceGroups",
+			"location": "germanywestcentral",
+			"tags": { "fancy-tag": "07" },
+			"properties": { "provisioningState": "Succeeded" }
+		},
+		{
+			"id": "/subscriptions/77d9206d-4aa9-4ebb-a46c-6859ab85a638/resourceGroups/my-demo-resource-group-08",
+			"name": "my-demo-resource-group-08",
+			"type": "Microsoft.Resources/resourceGroups",
+			"location": "germanywestcentral",
+			"tags": { "fancy-tag": "08" },
+			"properties": { "provisioningState": "Succeeded" }
+		},
+		{
+			"id": "/subscriptions/77d9206d-4aa9-4ebb-a46c-6859ab85a638/resourceGroups/my-demo-resource-group-09",
+			"name": "my-demo-resource-group-09",
+			"type": "Microsoft.Resources/resourceGroups",
+			"location": "germanywestcentral",
+			"tags": { "fancy-tag": "09" },
+			"properties": { "provisioningState": "Succeeded" }
+		},
+		{
+			"id": "/subscriptions/77d9206d-4aa9-4ebb-a46c-6859ab85a638/resourceGroups/my-demo-resource-group-10",
+			"name": "my-demo-resource-group-10",
+			"type": "Microsoft.Resources/resourceGroups",
+			"location": "germanywestcentral",
+			"tags": { "fancy-tag": "10" },
+			"properties": { "provisioningState": "Succeeded" }
+		},
+		{
+			"id": "/subscriptions/77d9206d-4aa9-4ebb-a46c-6859ab85a638/resourceGroups/my-demo-resource-group-11",
+			"name": "my-demo-resource-group-11",
+			"type": "Microsoft.Resources/resourceGroups",
+			"location": "germanywestcentral",
+			"tags": { "fancy-tag": "11" },
+			"properties": { "provisioningState": "Succeeded" }
+		},
+		{
+			"id": "/subscriptions/77d9206d-4aa9-4ebb-a46c-6859ab85a638/resourceGroups/my-demo-resource-group-12",
+			"name": "my-demo-resource-group-12",
+			"type": "Microsoft.Resources/resourceGroups",
+			"location": "germanywestcentral",
+			"tags": { "fancy-tag": "12" },
+			"properties": { "provisioningState": "Succeeded" }
+		},
+		{
+			"id": "/subscriptions/77d9206d-4aa9-4ebb-a46c-6859ab85a638/resourceGroups/my-demo-resource-group-13",
+			"name": "my-demo-resource-group-13",
+			"type": "Microsoft.Resources/resourceGroups",
+			"location": "germanywestcentral",
+			"tags": { "fancy-tag": "13" },
+			"properties": { "provisioningState": "Succeeded" }
+		},
+		{
+			"id": "/subscriptions/77d9206d-4aa9-4ebb-a46c-6859ab85a638/resourceGroups/my-demo-resource-group-14",
+			"name": "my-demo-resource-group-14",
+			"type": "Microsoft.Resources/resourceGroups",
+			"location": "germanywestcentral",
+			"tags": { "fancy-tag": "14" },
+			"properties": { "provisioningState": "Succeeded" }
+		},
+		{
+			"id": "/subscriptions/77d9206d-4aa9-4ebb-a46c-6859ab85a638/resourceGroups/my-demo-resource-group-15",
+			"name": "my-demo-resource-group-15",
+			"type": "Microsoft.Resources/resourceGroups",
+			"location": "germanywestcentral",
+			"tags": { "fancy-tag": "15" },
+			"properties": { "provisioningState": "Succeeded" }
+		},
+		{
+			"id": "/subscriptions/77d9206d-4aa9-4ebb-a46c-6859ab85a638/resourceGroups/my-demo-resource-group-16",
+			"name": "my-demo-resource-group-16",
+			"type": "Microsoft.Resources/resourceGroups",
+			"location": "germanywestcentral",
+			"tags": { "fancy-tag": "16" },
+			"properties": { "provisioningState": "Succeeded" }
+		},
+		{
+			"id": "/subscriptions/77d9206d-4aa9-4ebb-a46c-6859ab85a638/resourceGroups/my-demo-resource-group-17",
+			"name": "my-demo-resource-group-17",
+			"type": "Microsoft.Resources/resourceGroups",
+			"location": "germanywestcentral",
+			"tags": { "fancy-tag": "17" },
+			"properties": { "provisioningState": "Succeeded" }
+		},
+		{
+			"id": "/subscriptions/77d9206d-4aa9-4ebb-a46c-6859ab85a638/resourceGroups/my-demo-resource-group-18",
+			"name": "my-demo-resource-group-18",
+			"type": "Microsoft.Resources/resourceGroups",
+			"location": "germanywestcentral",
+			"tags": { "fancy-tag": "18" },
+			"properties": { "provisioningState": "Succeeded" }
+		},
+		{
+			"id": "/subscriptions/77d9206d-4aa9-4ebb-a46c-6859ab85a638/resourceGroups/my-demo-resource-group-19",
+			"name": "my-demo-resource-group-19",
+			"type": "Microsoft.Resources/resourceGroups",
+			"location": "germanywestcentral",
+			"tags": { "fancy-tag": "19" },
+			"properties": { "provisioningState": "Succeeded" }
+		},
+		{
+			"id": "/subscriptions/77d9206d-4aa9-4ebb-a46c-6859ab85a638/resourceGroups/my-demo-resource-group-20",
+			"name": "my-demo-resource-group-20",
+			"type": "Microsoft.Resources/resourceGroups",
+			"location": "germanywestcentral",
+			"tags": { "fancy-tag": "20" },
+			"properties": { "provisioningState": "Succeeded" }
+		},
+		{
+			"id": "/subscriptions/77d9206d-4aa9-4ebb-a46c-6859ab85a638/resourceGroups/my-demo-resource-group-01",
+			"name": "my-demo-resource-group-01",
+			"type": "Microsoft.Resources/resourceGroups",
+			"location": "germanywestcentral",
+			"tags": { "fancy-tag": "01" },
+			"properties": { "provisioningState": "Succeeded" }
+		}
+	]
+}
